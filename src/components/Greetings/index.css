@@ -1,0 +1,19 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  padding: 50px;
+}
+.main-heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+}
+.buttons-container {
+  display: flex;
+  list-style: none;
+  padding-left: 0px;
+}
+.image-style {
+  width: 250px;
+}
